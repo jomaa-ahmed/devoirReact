@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Hackaton",
+    "fees": "100",
+    "date": "01/04/2023",
+    "participants": "10",
+    "description": "Hackaton is a coding competition where you can show your coding skills and win exciting prizes"
+  },
+  {
+    "id": "2",
+    "name": "Meet & Greet",
+    "fees": "30",
+    "date": "01/04/2023",
+    "participants": "0",
+    "description": "lorem  Ipsum is Lorem Ipsum and is therefore .... "
+  }
+]
